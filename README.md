@@ -1,95 +1,66 @@
-# 👋 Hello, I'm Munaeem
+# <div align="center">Hi, I'm Munaeem</div>  
+### <div align="center">Full-Stack Developer | Open-Source Contributor</div>  
 
-### Full‑Stack Web Developer | E‑Commerce Enthusiast | Cloud Deployment Explorer
-
----
-
-## 📊 Quick Overview
-
-| 🔍 Role                       | 📚 Focus Areas                        | 🚀 Current Status            |
-|-----------------------------|---------------------------------------|-----------------------------|
-| Full‑Stack Developer        | React • Express • MongoDB             | Building Grocery Web App    |
-| Learner                      | Deployment (DigitalOcean / Firebase) | Preparing for Production    |
-| Contributor                  | Open Source Projects                  | Open to Collaboration       |
+<p align="center">
+  <a href="https://github.com/Munaeem7">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/yourusername?tab=followers">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
 ---
 
-## ⚙️ Technology Stack
+### 🛠️ **Technical Stack**  
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+#### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+#### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Deployment & Tools
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
----
-
-## ⭐ Featured Projects
-
-### 🛒 Grocery Store Web App
-An intuitive full-stack grocery store platform featuring responsive design, cart systems, order processing, and email notifications.
-
-- **Frontend:** React + Tailwind CSS  
-- **Backend:** Express.js + MongoDB  
-- **Hosting:** DigitalOcean App Platform + MongoDB Atlas  
-- **Highlights:**
-  - Mobile-optimized shopping experience
-  - Cash-on-delivery order placement
-  - Email notifications to buyer and seller
-
-**GitHub**: https://github.com/yourusername/grocery-store  
-**Live Demo**: https://yourgrocerystore.live
+#### **Tools & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🧠 Developer Profile
+### 📊 **GitHub Stats & Metrics**  
 
-- Focused on building scalable web applications
-- Committed to clean, maintainable code
-- Always learning new frameworks and deployment tools
-- Experienced in debugging and problem-solving
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+</p>
 
 ---
 
-## 🤝 Connect with Me
+### 🏆 **Contributions & Activity**  
 
-- **LinkedIn**: https://linkedin.com/in/yourprofile  
-- **Email**: youremail@example.com  
-- **Portfolio**: https://yourportfolio.com
+<!-- GitHub Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
 
----
-
-## 🧩 My Philosophy
-
-> “Every project is a chance to learn. Every challenge, a chance to grow.”
-
-I believe in blending reliability with innovation to build software that truly helps people. Strong collaboration, clean code, and constant improvement are at the heart of my approach.
-
----
-
-### ⚡ Core Values
-
-- Integrity in code  
-- Creativity in solutions  
-- Consistency in growth  
-- Community through contributions
-
----
-
-Feel free to copy this file into your GitHub profile repo or project root and replace placeholders with your personal links and info. And let me know if you'd like help with badges, GitHub Actions, or adding a timeline section!
-::contentReference[oaicite:0]{index=0}
+<!-- Dynamic Activity Graph -->
+```mermaid
+journey
+  title My Weekly Development Activity
+  section Frontend
+    React Projects: 5: Active
+    Tailwind Styling: 4: Active
+  section Backend
+    Node.js APIs: 6: Active
+    Java Microservices: 3: Active
+  section Tools
+    Git Commits: 7: Active
