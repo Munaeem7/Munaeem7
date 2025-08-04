@@ -1,139 +1,108 @@
-<!-- Munaeem7 | Professional Full-Stack Developer README -->
-
-<!-- ========================= -->
-<!-- Dynamic Animated Headline -->
-<!-- ========================= -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=4F8A8B&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+%F0%9F%92%BB;Crafting+Modern+Web+Solutions+with+Passion+%F0%9F%92%A1;Full-Stack+Developer+%7C+React+%7C+Node.js+%7C+Tailwind+%7C+Java+%7C+Python;Transforming+Ideas+into+Impactful+Products+%F0%9F%92%AF" alt="Animated Headline" />
-</h1>
-
----
-
-
-<!-- ========================= -->
-<!-- Technology Ecosystem -->
-<!-- ========================= -->
-## 🛠️ My Technology Ecosystem
-
+<!-- ======================== -->
+<!-- Animated Header Section -->
+<!-- ======================== -->
 <div align="center">
-  <table>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Dev Tools & Platforms</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi%F0%9F%91%8B%2C+I'm+Munaeem;Creative+frontend+developer;Build+scalable+web+applications;Focused+on+clean%2C+efficient+code;Passionate+about+modern+UI%2FUX;Learning+backend+and+cloud+tech;Always+learning%2C+always+building" alt="Professional Introduction" />
+  
+  <div style="margin: 30px 0; display: flex; justify-content: center; gap: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=Munaeem7&label=Profile+Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Munaeem7?label=Followers&style=for-the-badge&color=6366F1" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/Available%20for%20Projects-ACTIVE-10B981?style=for-the-badge" alt="Availability" />
+  </div>
 </div>
 
 ---
 
-<!-- ========================= -->
-<!-- Featured Projects -->
-<!-- ========================= -->
-## 🚀 Featured Projects
+<!-- ======================== -->
+<!-- Technical Skills Section -->
+<!-- ======================== -->
+##  Technical Expertise
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-| ------- | ----------- | ---------- | ----- |
-| **Modern Dashboard** | Analytics dashboard for business insights, featuring live charts and seamless UI. | React, Tailwind, Node.js, Chart.js | [Repo](https://github.com/Munaeem7/sample-dashboard) |
-| **RESTful API Suite** | Secure, scalable REST APIs with JWT authentication and best practices. | Node.js, Express, Java, Python | [Repo](https://github.com/Munaeem7/sample-api) |
-| **E-Commerce Platform** | Full-stack shop with order management, authentication, and payment integration. | React, Node.js, Express, MongoDB | [Repo](https://github.com/Munaeem7/sample-ecommerce) |
+### Frontend 
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
 
+### Backend 
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</div>
+
+### Database & Tools
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 </div>
 
 ---
 
-<!-- ========================= -->
-<!-- Developer Analytics Dashboard -->
-<!-- ========================= -->
-## 📊 Developer Analytics Dashboard
+<!-- ======================== -->
+<!-- GitHub Achievements -->
+<!-- ======================== -->
+## 🏅 Professional Milestones
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munaeem7&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munaeem7&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Munaeem7&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Munaeem7&row=2&column=4&margin-w=15&margin-h=15&theme=onedark&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
-<!-- ========================= -->
-<!-- Stats Dashboard -->
-<!-- ========================= -->
-## 📈 Stats Dashboard (2025)
+<!-- ======================== -->
+<!-- GitHub Statistics -->
+<!-- ======================== -->
+## 📊 Development Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Public Repos</b><br>5</td>
-      <td align="center"><b>Followers</b><br>2</td>
-      <td align="center"><b>Following</b><br>3</td>
-      <td align="center"><b>Languages Used</b><br>JavaScript, Python, Java, CSS, HTML</td>
-    </tr>
-  </table>
+<div align="center" style="margin: 30px 0;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Munaeem7&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Munaeem7&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+  </div>
+  
+  <div style="margin-top: 30px;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munaeem7&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  </div>
+</div>
+
+<!-- Contribution Graph -->
+<div align="center" style="margin: 40px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munaeem7&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
-<!-- ========================= -->
-<!-- Achievement Showcase -->
-<!-- ========================= -->
-## 🏆 Achievement Showcase
+<!-- Connect Section -->
+<!-- ======================== -->
+## 🌟 Let's Connect
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Munaeem7&theme=radical&no-frame=true&row=1&column=6&margin-w=12" alt="Trophy" />
+<div align="center" style="background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%); padding: 40px; border-radius: 12px; margin: 40px 0; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);">
+  
+
+  <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-bottom: 15px;">
+    <a href="mailto:munaeemm2@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=28" alt="Email" />
+    </a>
+    <a href="https://github.com/Munaeem7">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&height=28" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/muhammad-munaeem/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=28" alt="LinkedIn" />
+    </a>
+  </div>
 </div>
 
----
-
-<!-- ========================= -->
-<!-- Connect & Collaborate -->
-<!-- ========================= -->
-## 🤝 Connect & Collaborate
-
-<div align="center" style="margin-top:10px;">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-munaeem/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Munaeem7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<!-- Professional Closing -->
+<div align="center" style="margin-top: 70px; padding: 20px 0; border-top: 1px solid #334155;">
+  <p style="color: #818CF8; font-size: 18px; font-weight: 500; margin-top: 60px;">
+    Thank you for visiting my profile
+  </p>
 </div>
-
----
-
-<!-- ========================= -->
-<!-- Footer: Animated Divider -->
-<!-- ========================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<!--
-This README design is inspired by professional standards, with unique animated headlines and visually distinct sections.
-Update any placeholder links (e.g., email, project repos) as needed.
--->
